@@ -26,7 +26,7 @@
 ### 🤝 &nbsp;Mampirlah 
 
 <p>
-<a href="https://mjmokhtar.000webhostapp.com/"><img src="https://img.shields.io/badge/-mjmokhtar.com-3423A6?style=flat&logo=Safari&logoColor=white"/></a>
+<a href="https://mjmokhtar.netlify.app/"><img src="https://img.shields.io/badge/-mjmokhtar.com-3423A6?style=flat&logo=Safari&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/muhammadjumiatmokhtar/"><img src="https://img.shields.io/badge/-MJ%20Mokhtar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCOz8cOfqPVn19_9spXOlPRg"><img src="https://img.shields.io/badge/-MJM-BD081C?style=flat&logo=Youtube&logoColor=white"/></a>
 </p>

@@ -5,7 +5,6 @@
 - 🎓 Saia Lulusan Fisika Bidang Keahlian Instruemntasi 
 - 💻 Sisi Lelucon saia dalam IT Underground & Playgrup
 - 💼🔭📚 mau minta tolong kerjaan alias freelance? 
-- sisi serius saia, [webmj](mjmokhtar.000webhostapp.com) 
 - 💬 tidak mahir tapi akan tetap berbagi dan berdiskusi;
 
 ### 🛠 &nbsp;Keahlian yang bukan profesional 

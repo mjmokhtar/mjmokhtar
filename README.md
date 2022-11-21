@@ -1,6 +1,6 @@
 ### Sebut saja ucapan selamat datang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Nama Saia MJ
 
-<img align="right" alt="GIF" x='10' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" x='12' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
 - 🎓 Saia Lulusan Fisika Bidang Keahlian Instruemntasi 
 - 💻 Sisi Lelucon saia dalam IT Underground & Playgrup

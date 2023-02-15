@@ -36,5 +36,11 @@
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
+
+## 📈 GitHub Stats 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjmokhtar&hide=html,css,js,python,C)](https://github.com/mjmokhtar/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mjmokhtar)](https://github.com/mjmokhtar)
+
 ------
 Credits: [MJ](https://github.com/mjmokhtar)

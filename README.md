@@ -16,10 +16,6 @@
 <a href="https://www.youtube.com/channel/UCOz8cOfqPVn19_9spXOlPRg"><img src="https://img.shields.io/badge/-MJM-BD081C?style=flat&logo=Youtube&logoColor=white"/></a>
 </p>
 
-### 🐍 &nbsp;just Copas
-<div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
 
 
 ## 📈 GitHub Stats 

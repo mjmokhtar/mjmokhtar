@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" x='12' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
-- 🎓 Fresh graduated Physics in Instrumentation Expertise;
+- 🎓 Graduated Physics in Instrumentation Expertise;
 - 💻 IT Underground & Playgrup;
 - 💼🔭📚 Hobby ;
 - 💬 not proficient but will still share and discuss;
@@ -13,7 +13,8 @@
 <p>
 <a href="https://mjmokhtar.netlify.app/"><img src="https://img.shields.io/badge/-mjmokhtar.com-3423A6?style=flat&logo=Safari&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/muhammadjumiatmokhtar/"><img src="https://img.shields.io/badge/-MJ%20Mokhtar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCOz8cOfqPVn19_9spXOlPRg"><img src="https://img.shields.io/badge/-MJM-BD081C?style=flat&logo=Youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/@muhammadjumiatmokhtar"><img src="https://img.shields.io/badge/-MJM-BD081C?style=flat&logo=Youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/@cenayang02"><img src="https://img.shields.io/badge/-MJM-BD081C?style=flat&logo=Youtube&logoColor=white"/></a>
 </p>
 
 

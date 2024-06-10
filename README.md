@@ -20,7 +20,7 @@
 
 
 ## 📈 GitHub Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjmokhtar&hide=html,css)](https://github.com/mjmokhtar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjmokhtar&hide=html,CSS,typescript)](https://github.com/mjmokhtar/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mjmokhtar)](https://github.com/mjmokhtar)
 

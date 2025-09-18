@@ -14,11 +14,5 @@
 <a href="https://www.youtube.com/@muhammadjumiatmokhtar"><img src="https://img.shields.io/badge/-MJ_Mokhtar-BD081C?style=flat&logo=Youtube&logoColor=white"/></a>
 </p>
 
-
-
-## 📈 GitHub Stats 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mjmokhtar)](https://github.com/mjmokhtar)
-
 ------
 Credits: [MJ](https://github.com/mjmokhtar)
